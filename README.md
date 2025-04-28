@@ -23,34 +23,6 @@ A mobile application developed with Flutter and Python FastAPI that scans, parse
 | Gemini API       | AI-based text parsing and categorization        |
 | Isar Database    | Lightweight local NoSQL storage                 |
 
-## 📸 Screenshots
-
-Home Page | Statistics Page | Receipt Details  
-(Replace link_here with your screenshots or upload them later)
-
-## 🧩 Installation
-
-Clone the repository:
-
-```bash
-git clone https://github.com/Elwynr/Receiptionary.git
-cd Receiptionary/
-```
-
-### Backend and Frontend Setup
-
-1. Install dependencies:
-    ```bash
-    flutter pub get
-    pip install -r requirements.txt
-    ```
-
-2. Run the application:
-    ```bash
-    flutter run
-    uvicorn main:app --reload
-    ```
-
 ## 📚 How it Works
 
 1. User uploads or takes a photo of a receipt.
